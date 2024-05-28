@@ -1,4 +1,5 @@
 # Learning_Trial
+
 My first git repository
 <br>
-Written by Bhumika Dhimmar
+Written by Bhumika Kanaiyalal Dhimmar
